@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Mohammed Saad
-- 👀 I'm interested in Data Science
+- 👀 I'm interested in Data Analysis 
 - 🌱 I'm currently learning Machine Learning
 
 <!---
