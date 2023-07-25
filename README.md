@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Mohammed Saad
 - 👀 I'm interested in Data Analysis 
-- 🌱 I'm currently learning Machine Learning
 
 <!---
 mohammedsaad2001/mohammedsaad2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
